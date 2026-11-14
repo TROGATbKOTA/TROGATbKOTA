@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**TROGATbKOTA/TROGATbKOTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **TROGATbKOTA**.
 
-Here are some ideas to get you started:
+Делаю и выкладываю вещи для **ASUS ROG Ally Z1 Extreme** — в основном апскейлеры и генерацию кадров для игр на встроенной графике Radeon 780M.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Проекты
+
+- **[ROG Ally Z1R · Elden Ring FSR 4.1 lite + Frame Gen](https://github.com/TROGATbKOTA/rog-ally-z1r-elden-fsr4.1-lite)** — рабочий стек FSR 4.1 Lite + XeFG для Elden Ring (1080p, 780M).
+- **[ZgmicroVolumeBridge](https://github.com/TROGATbKOTA/ZgmicroVolumeBridge)** — мост громкости Zgmicro.
+
+### 💛 Поддержать
+
+Если мои сборки сэкономили тебе время и нервы — можно угостить меня кофе. Это добровольно и без каких-либо обязательств с моей стороны.
+
+[![Boosty](https://img.shields.io/badge/Boosty-поддержать-ff5722?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/trogatbkota)
